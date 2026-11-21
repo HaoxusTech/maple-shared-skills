@@ -7,3 +7,6 @@ For the Northstar demo, use the headings `Change`, `Evidence`, and `Next owner`.
 Include only synthetic information and link to the relevant demo artifact or
 record. Mark an unverified outcome as pending. This convention is a demo
 fixture, not a rule for other organizations.
+
+For fictional Northstar test briefs, name the supplied fictional owner under
+`Next owner`. If no fictional owner is supplied, ask rather than inventing one.
